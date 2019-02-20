@@ -7,4 +7,4 @@ Built With
 HTML5 - Latest HTML markup language
 CSS3 - Latest css3 used
 Contributors
-David Norris - Initial work
+Rene Arenas Flores - Initial work
